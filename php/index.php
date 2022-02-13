@@ -14,7 +14,7 @@
               <td>{$row["Nama"]}</td>
               <td>{$row["Alamat"]}</td>
               <td>{$row["Jabatan"]}</td>
-            </tr><br>";
+            </tr>\n";
    }	
 
 
